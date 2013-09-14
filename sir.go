@@ -1,8 +1,6 @@
 package sir
 
-import (
-	"log"
-)
+import "log"
 
 func CheckError(err error) {
 	if err != nil {
